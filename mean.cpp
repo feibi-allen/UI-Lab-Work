@@ -12,7 +12,11 @@ void read_data(istream& input, vector<float>& data){
 }
 
 float mean_value(vector<float>& data){
-    
+    float sum;
+    for (float num : data){
+        sum += num;
+    }
+    return sum/data.size();
 }
 
 int main(int argc, char* argv[])
@@ -34,6 +38,8 @@ int main(int argc, char* argv[])
     read_data(infile, data);
 
     cout << data.size() << endl;
+
+    cout << "Mean value = " << mean_value(data) << endl;
 
     return 0;
 }
