@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/UI-Lab-Work/sheet2/circle2.hpp
+iostream
+-
+cmath
+-
+shape.hpp
+/workspaces/UI-Lab-Work/sheet2/shape.hpp
+
+/workspaces/UI-Lab-Work/sheet2/rect.hpp
+shape.hpp
+/workspaces/UI-Lab-Work/sheet2/shape.hpp
+
+/workspaces/UI-Lab-Work/sheet2/shape.hpp
+
+/workspaces/UI-Lab-Work/sheet2/shapedemo.cpp
+iostream
+-
+vector
+-
+rect.hpp
+/workspaces/UI-Lab-Work/sheet2/rect.hpp
+circle2.hpp
+/workspaces/UI-Lab-Work/sheet2/circle2.hpp
+

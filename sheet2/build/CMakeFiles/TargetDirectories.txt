@@ -1,3 +1,4 @@
 /workspaces/UI-Lab-Work/sheet2/build/CMakeFiles/rebuild_cache.dir
 /workspaces/UI-Lab-Work/sheet2/build/CMakeFiles/edit_cache.dir
+/workspaces/UI-Lab-Work/sheet2/build/CMakeFiles/shapedemo.dir
 /workspaces/UI-Lab-Work/sheet2/build/CMakeFiles/testrect.dir
