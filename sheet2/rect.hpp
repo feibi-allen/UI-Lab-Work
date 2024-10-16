@@ -1,12 +1,11 @@
 #pragma once
+#include "shape.hpp"
 
-class Rectangle{
+class Rectangle: public Shape{
     public:
         Rectangle(double w,double h): Rectangle(0,0,w,h) {}
         Rectangle(double x,double y,double w,double h);
 
-        double getX() const {return xorigin;}
-        double getY() const {return yorigin;}
         double getWidth() const {return width;}
         double getHeight() const {return height;}
 
