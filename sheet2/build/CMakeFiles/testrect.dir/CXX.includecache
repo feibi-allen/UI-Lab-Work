@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/UI-Lab-Work/sheet2/rect.hpp
+
+/workspaces/UI-Lab-Work/sheet2/testrect.cpp
+iostream
+-
+rect.hpp
+/workspaces/UI-Lab-Work/sheet2/rect.hpp
+
