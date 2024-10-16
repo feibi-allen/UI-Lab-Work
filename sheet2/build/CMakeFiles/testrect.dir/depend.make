@@ -3,7 +3,9 @@
 
 CMakeFiles/testrect.dir/rect.cpp.o: ../rect.cpp
 CMakeFiles/testrect.dir/rect.cpp.o: ../rect.hpp
+CMakeFiles/testrect.dir/rect.cpp.o: ../shape.hpp
 
 CMakeFiles/testrect.dir/testrect.cpp.o: ../rect.hpp
+CMakeFiles/testrect.dir/testrect.cpp.o: ../shape.hpp
 CMakeFiles/testrect.dir/testrect.cpp.o: ../testrect.cpp
 

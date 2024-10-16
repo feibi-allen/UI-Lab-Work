@@ -7,6 +7,10 @@
 #IncludeRegexTransform: 
 
 /workspaces/UI-Lab-Work/sheet2/rect.hpp
+shape.hpp
+/workspaces/UI-Lab-Work/sheet2/shape.hpp
+
+/workspaces/UI-Lab-Work/sheet2/shape.hpp
 
 /workspaces/UI-Lab-Work/sheet2/testrect.cpp
 iostream
