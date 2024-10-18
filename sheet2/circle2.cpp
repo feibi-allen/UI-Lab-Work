@@ -15,3 +15,12 @@ bool Circle::containsPoint(double x, double y) const
   double dy = y - getY();  // <2>
   return sqrt(dx*dx + dy*dy) <= radius;
 }
+
+void Circle::draw() const
+{
+  std::cout << "Drawing Circle("
+  << "x=" << getX()
+  << ",y=" << getY()
+  << ",r=" << getRadius()
+  << ")" << std::endl;
+}

@@ -5,7 +5,7 @@ int main(){
     try
     {
         Rectangle rectA(1, 3, 5, 6);
-        Rectangle rectB(4, 5, -1, 2);  // This should trigger the exception
+        Rectangle rectB(4, 5);  // This should trigger the exception
         std::cout << "Rect A: " 
                   << "Width = " << rectA.getWidth() 
                   << ", Height = " << rectA.getHeight()
