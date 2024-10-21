@@ -1,0 +1,5 @@
+/workspaces/UI-Lab-Work/formative1/build/CMakeFiles/rebuild_cache.dir
+/workspaces/UI-Lab-Work/formative1/build/CMakeFiles/edit_cache.dir
+/workspaces/UI-Lab-Work/formative1/build/CMakeFiles/test_quake.dir
+/workspaces/UI-Lab-Work/formative1/build/CMakeFiles/test_dataset.dir
+/workspaces/UI-Lab-Work/formative1/build/CMakeFiles/quaketool.dir
