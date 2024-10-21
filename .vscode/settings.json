@@ -3,5 +3,6 @@
         "iostream": "cpp",
         "stdexcept": "cpp",
         "ostream": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "/workspaces/UI-Lab-Work/sheet2"
 }
